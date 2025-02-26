@@ -1,7 +1,7 @@
 # DESHAYES Louis 3INFO
 
 ![Tests](https://github.com/LouisDhs/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
-![Linter](https://github.com/LouisDhs/PARTIEL_3INFO_DEVOPS/workflows/linter.yml/badge.svg)
+![Linter](https://github.com/LouisDhs/PARTIEL_3INFO_DEVOPS/actions/workflows/linter.yml/badge.svg)
 
 
 
