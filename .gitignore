@@ -1,0 +1,13 @@
+# Ignorer les fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les dossiers de virtual environment
+venv/
+.venv/
+
+# Ignorer les fichiers de dépendances locales
+.mypy_cache/
+.pytest_cache/
