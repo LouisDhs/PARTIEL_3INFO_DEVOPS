@@ -1,3 +1,10 @@
+# DESHAYES Louis 3INFO
+
+![Tests](https://github.com/LouisDhs/PARTIEL_3INFO_DEVOPS/actions/workflows/tests.yml/badge.svg)
+![Linter](https://github.com/LouisDhs/PARTIEL_3INFO_DEVOPS/workflows/linter.yml/badge.svg)
+
+
+
 # Partiel DEVOPS - Exemple avec Python et GitHub Actions
 
 Ce dépôt contient un projet Python simple avec :
